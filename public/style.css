@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  background: #0f172a;
+  color: white;
+  text-align: center;
+}
+
+input, textarea {
+  width: 60%;
+  margin: 10px;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background: cyan;
+  border: none;
+  cursor: pointer;
+}
